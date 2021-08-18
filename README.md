@@ -1,1 +1,1 @@
-"# react-native-aula01-basico" 
+Projeto base para Introdução ao React Native
